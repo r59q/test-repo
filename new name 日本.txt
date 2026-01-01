@@ -117,7 +117,7 @@ context line 116
 context line 117
 context line 118
 context line 119
-context line 120
+UPDATED HEAD line 120
 context line 121
 context line 122
 context line 123
