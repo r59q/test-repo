@@ -57,7 +57,7 @@ context line 56
 context line 57
 context line 58
 context line 59
-context line 60
+HEAD line 60
 context line 61
 context line 62
 context line 63
@@ -177,7 +177,7 @@ context line 176
 context line 177
 context line 178
 context line 179
-context line 180
+HEAD line 180
 context line 181
 context line 182
 context line 183
